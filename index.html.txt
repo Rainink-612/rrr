@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Misty Hotel F&B Complaint Policy</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            line-height: 1.6;
+        }
+        .header {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        .section {
+            margin-bottom: 30px;
+            border-bottom: 1px solid #ddd;
+            padding-bottom: 20px;
+        }
+        h1, h2, h3 {
+            color: #0056b3;
+            margin-bottom: 10px;
+        }
+        .policy-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 10px;
+        }
+        .policy-table th, .policy-table td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+        .procedure-step {
+            margin-left: 20px;
+            list-style: decimal;
+        }
+        @media (max-width: 600px) {
+            body {
+                font-size: 14px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>Misty Hotel Food and Beverage Department</h1>
+        <h2>Complaint Handling Policy and Procedures</h2>
+    </div>
+
+    <div class="section">
+        <h2>Policy Statement</h2>
+        <p>The Food and Beverage department is committed to providing all customers with undifferentiated and inclusive services... </p>
+    </div>
+
+    <div class="section">
+        <h2>Policy Goals</h2>
+        <ul>
+            <li>Handle all complaints timely, fairly and effectively</li>
+            <li>Reduce complaint rate by over 30% with initial response within 24 hours</li>
+            <li>Enhance customer trust and satisfaction through thorough investigation</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>Service Standards for Staff</h2>
+        <h3>Communication Attitude</h3>
+        <ul>
+            <li>Keep smiling and use empathetic sentences like "I'm very sorry..."</li>
+            <li>Respect religious dietary taboos for multicultural customers</li>
+        </ul>
+        
+        <h3>Non-Discriminatory Service Principle</h3>
+        <ul>
+            <li>Treat all customers equally regardless of consumption amount</li>
+            <li>Provide customized solutions for different customer groups</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>Complaint Handling Procedure</h2>
+        <h3>Scope and Purpose</h3>
+        <p>Applicable to all customer complaints in F&B department... </p>
+        
+        <h3>Responsibilities Table</h3>
+        <table class="policy-table">
+            <tr>
+                <th>Occupation</th>
+                <th>Responsibility Description</th>
+            </tr>
+            <tr>
+                <td>Worker at the production line</td>
+                <td>Record complaint info and notify manager within 5 minutes</td>
+            </tr>
+            <tr>
+                <td>Food and beverage manager</td>
+                <td>Arrive at scene within 10 minutes, coordinate solutions</td>
+            </tr>
+        </table>
+        
+        <h3>Processing Steps</h3>
+        <ol class="procedure-step">
+            <li>Complaint Acceptance: Through on-site/online/telephone channels</li>
+            <li>On-Site Response: Manager arrives within 10 minutes</li>
+            <li>Classified Process: Simple complaints ≤30min, Complex ≤24hours</li>
+        </ol>
+    </div>
+
+    <div class="section">
+        <h2>Regulations Links</h2>
+        <p>
+            <a href="https://www.consumerlaw.gov.au/" target="_blank">Australian Consumer Law (ACL)</a><br>
+            <a href="https://www.accc.gov.au/" target="_blank">ACCC</a>
+        </p>
+    </div>
+</body>
+</html>
